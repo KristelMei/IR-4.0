@@ -4,7 +4,7 @@ Industrial Revolution 4.0
 Leader: 
 Espanillo, Kristel Mae G.
 Tasks: 
-- Introduction
+- Key Technologies
 - Advantages & Disadvantages
 - Related Review Literature
 Members: 
@@ -20,6 +20,6 @@ Tasks:
 - Human-Computer Interaction
 Rubio, Vincent Stevens P. 
 Tasks: 
-- Key Technologies
+- Introduction
 - Emerging Technologies
 - References
