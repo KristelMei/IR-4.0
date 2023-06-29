@@ -1,0 +1,35 @@
+Evolution of Industrial Revolution
+	We must discuss the first three industrial revolutions to understand the fourth
+ industrial revolution. It all started with the first industrial revolution, which happened
+ in the late 17th century in England. This is where water and steam-powered machines 
+sustain a lot of growth in the glass, mining, agriculture, textile, and many other industries. 
+The first industrial revolution made the production much more efficient and cost-effective, 
+and most small businesses grew and developed to become large organizations that served a 
+larger number of people. One of the downsides of this revolution was that there was greater 
+demand for production machines than the supply. The machines that were invented during this 
+industrial revolution includes the: Flying Shuttle, Spinning Jenny, Water Frame, and Watt Steam Engine.
+	Around the 1870s, which mainly occurred in Germany, America, and Britain, we had the 
+second industrial revolution, where machines were powered by electrical energy and the emergence 
+of steel mass production. This revolution allowed greater production and more sophisticated machines; 
+they were more efficient, easier to operate, and required fewer resources and human effort than the 
+machines from the first revolution. Some of the downsides of this revolution was that it led to 
+increased pollution and environmental damage due to the increased use of machines and factories, 
+which produced large amounts of waste and pollution. The machines that were invented during this 
+industrial revolution includes the: Telephone, Internal Combustion Engine, Automobile, Typewriter, and more.
+	For the 3rd revolution that began in the 1970s of the 20th centuries, during this period, 
+simple yet large computers were developed that had quite good computing power and laid the foundation 
+for the development of modern-day machines. Partial automation in this third industrial revolution became 
+possible with the use of simple computers and Programmable Logic Controllers (also known as memory-programmable 
+controllers). These electronic devices led to greater accuracy in production, increased speed, better 
+competency, and even the replacement of human labor in some manufacturing processes. Some of the downsides
+ of this revolution were that it led to air and water pollution and soil contamination that can deteriorate
+ the quality of life and life expectancy, and it can also worsen the separation of labor and capital. 
+The machines that were invented during this industrial revolution includes the: Robots, Integrated Circuits, 
+Transistors, Programmable Logic Controller (PLC), and more.
+	Lastly, the adoption of digital technologies and automation across a range of sectors and facets 
+of daily life is what is known as the 4th Industrial Revolution, or Industry 4.0. It signifies a paradigm 
+shift in the way we behave, operate, and communicate. With the help of big data analytics, robots, the 
+Internet of Things, artificial intelligence, and robotics, Industry 4.0 is able to construct interconnected 
+systems that support advanced automation, data-driven decision-making, and real-time communication. Industry 
+restructuring, process improvement, and productivity improvement are all results of this revolution. 
+The workforce is also faced with new chances and difficulties, which forces people to adapt and pick up new skills.
