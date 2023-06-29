@@ -1,0 +1,33 @@
+Human-Computer Interaction
+Human-computer interaction (HCI) is the field of study that aims to enhance how users and computers interact 
+by providing interactive computer interfaces. It focuses on designing, implementing, and evaluating interactive
+interfaces that improves user experience using computing devices. It is helpful to have a simple, natural,
+and precise interaction for communities lacking knowledge and formal training on computer-based systems. 
+
+The HCI is composed of 4 key components which are:
+1. The USER
+It refers to an individual or a group of individuals that participate in a common task.
+ It studies users’ needs, goals, and interaction patterns that analyzes the cognitive 
+capabilities of users, emotions, experiences to provide smooth experience while interacting
+ with the key technologies of IR 4.0.
+2. The GOAL-ORIENTED TASK
+A user always has a purpose or goal in mind when using a computer system. To have a better
+user experience we must consider the complexity of the task that needs to be accomplished, 
+the knowledge and skills necessary to interact with the digital object, and lastly, the time 
+required to carry out the task.
+3. The INTERFACE
+The Interface is a significant HCI component that can improve the overall user interaction 
+experience. Various interface-related aspects must be considered, such as interaction type 
+(touch, click, gesture, or voice), screen resolution, display size, or even color contrast. 
+Users can adjust these depending on the user’s needs and requirements.
+4. The CONTEXT
+HCI considers the context and environment in which the system is accessible in addition to 
+improving communication between humans and computers.
+
+	Since Industrial Revolution 4.0 is characterized by increasing automation and the employment of 
+smart machines and smart factories, we could see that human-computer interaction is a helpful tool to 
+ensure smooth interaction. Since operators become involved in the manufacturing process for critical 
+decision-making, the interface system should allow commands that are easily and rapidly entered to 
+increase the accuracy, safety, and speed of problem-solving. There are a lot of interfaces that are 
+being implemented now, such as touch, voice, and gesture interfaces, that provide accurate interaction 
+between the technologies of Industrial Revolution 4.0.
