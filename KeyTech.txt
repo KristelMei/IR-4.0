@@ -1,0 +1,19 @@
+Cloud Computing (CM): The adoption of cloud computing is on the rise as more companies consider hosting their data systems and applications in the cloud.
+
+Internet of Things (IoT): Industry 4.0 resulted from combining IoT and IoS in manufacturing (Kagermann, Wahlster & Johannes, 2013), with IoT offering enhanced connectivity among systems, objects, and services, enabling data sharing and object-to-object communication.
+
+Additive Manufacturing: Industry 4.0 drives the adoption of advanced data technologies and intelligent production systems, with additive manufacturing as a critical tool. The integration of new manufacturing skills that incorporate information technology is essential for maintaining competitiveness in the economy.
+
+Autonomous Robots: In the future, robots are expected to interact with each other and work closely with humans, guided by handlers, at a lower cost and with more advanced capabilities compared to those currently used in manufacturing.
+
+Simulation: Simulation modeling involves running real or virtual processes to predict the output of a system or process, using real-time data to represent the real world in a simulation model, which can help operators optimize machine settings in a virtual environment, leading to decreased machine setup times and improved quality.
+
+Augmented Reality: Augmented Reality's potential benefits for maintenance works make it a promising investment for tech companies as it can predict accurately and reduce the frequency of maintenance, resulting in cost reduction associated with too much preventive maintenance.
+
+Cyber Security: Cybersecurity involves the use of various technologies, methods, and policies to secure computer networks, systems, and information from unwanted access or attacks to prevent serious consequences.
+
+3D Printing: 3D printing enables the transformation of 3D designs into products without the need for expensive tools or fixtures, thus reducing post-processing, material waste, and human intervention, making it an essential technology for Industry 4.0.
+
+Big Data and Analytics: Under Industry 4.0, big data analytics is crucial for predictive manufacturing and a significant area of industrial technology development due to the rapid growth of the Internet, resulting in vast amounts of data that traditional methods of processing and analysis cannot handle.
+
+System Integration: System integration, a process commonly used in engineering and information technology, combines various computing systems and software packages to create a larger system, driving Industry 4.0 to work at its optimum by increasing the value of a system through the creation of new functionalities.
